@@ -1,3 +1,7 @@
+# ProyectoA (https://www.proyectoa.com)
+# Gestor de Tareas (To-Do List) para Telegram
+# Versión 1.0
+
 import sqlite3
 
 class BD:
